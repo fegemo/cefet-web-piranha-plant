@@ -1,0 +1,40 @@
+h1 {
+    font-family: "Times New Roman", serif;
+    color: limegreen;
+    font-size: 28px;
+}
+
+h2 {
+    font-family: "Times New Roman", serif;
+    color: limegreen;
+    font-size: 22px;
+}
+
+body {
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: "Arial", sans-serif;
+    font-size: 14px;
+}
+
+p {
+    text-align: justify;
+}
+
+blockquote {
+    margin-left: 60px;
+}
+
+#trecho_mais_importante {
+    color: rebeccapurple;
+    border: 3px solid limegreen;
+    padding: 10px;
+    background-image: url("../imagens/fundo.png");
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 8px solid limegreen;
+}
