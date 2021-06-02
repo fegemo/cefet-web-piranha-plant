@@ -1,0 +1,35 @@
+@import url("estilos-comuns.css");
+
+body{
+    background-image: url(../imagens/desenho-loucao.jpg);
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: cover;
+}
+html, body{
+    min-height: 100%;
+    height: auto;
+}
+table{
+    border-collapse: collapse;
+    width: 600px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+th{
+    background-color: #606060;
+    font-size: 22px;
+    color: white;
+    height: 30px;
+    width: 200px
+}
+td{
+    height: 25px;
+    font-size: 16px;
+}
+th, td{
+    border: 1px solid black;
+}

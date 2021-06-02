@@ -1,0 +1,36 @@
+@import url("estilos-plantas.css");
+
+body{
+    font-family: "Arial", sans-serif;
+    font-size: 14px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+h1{
+    color: limegreen;
+    font-size: 28px;
+    font-family: "Times New Roman", serif;
+}
+h2{
+    color: limegreen;
+    font-size: 22px;
+    font-family: "Times New Roman", serif;
+}
+p{
+    text-align: justify;
+}
+blockquote{
+    margin-left: 60px;
+    margin-right: 0px;
+    text-align: justify;
+}
+#p-estilizado{
+    border: 3px solid limegreen;
+    padding: 10px 10px 10px 10px;
+    background-image: url(../imagens/fundo.png);
+    background-repeat: repeat-x;
+    background-position: center top;
+    background-size: contain cover;
+}
